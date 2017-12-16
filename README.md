@@ -1,21 +1,21 @@
 
-# Steemit üzerindeki SBD ve STEEM'lerin TL olarak toplam değeri
+### Steemit Ã¼zerindeki SBD ve STEEM'lerin TL olarak toplam deÄŸeri
 
-Sahip olduğunuz Steem ve SBD'lerin değerini TL olarak görebilirsiniz.
+Sahip olduÄŸunuz Steem ve SBD'lerin deÄŸerini TL olarak gÃ¶rebilirsiniz.
 
-#### Kurulum
+##### Kurulum
 
 * Pyhton 2.7 indirin https://www.python.org/downloads/
-Aşağıdaki şekilde kütüphaneleri yükleyin
+AÅŸaÄŸÄ±daki ÅŸekilde kÃ¼tÃ¼phaneleri yÃ¼kleyin
 * pip install os
 * pip install requests
 * pip install re
 
 
 
-#### Kullanım
-* **SbdSteemTL.py** dosyasını python IDE ile açın
-* F5'e basın
-* Steemit kullanıcı adınız girin
+##### KullanÄ±m
+* **SbdSteemTL.py** dosyasÄ±nÄ± python IDE ile aÃ§Ä±n
+* F5'e basÄ±n
+* Steemit kullanÄ±cÄ± adÄ±nÄ±z girin
 * ta ta.. ;)
 
